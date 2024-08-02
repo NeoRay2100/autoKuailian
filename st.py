@@ -38,4 +38,4 @@ else:
         else:
             print("未找到关闭按钮")
     else:
-        print("未找到包含“tool”字样的标签组")
+        print("未找到包含“连接”字样的标签组")
